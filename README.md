@@ -1,4 +1,6 @@
 # Huffman-Shannon_fano
+# Name: Dejashini T P
+# Reg no:212224060055 
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
 Apply the Huffman and Shannon-Fano to this source. 
@@ -57,10 +59,8 @@ print(f"Variance is : {var}")
 
 
 # Output
-```
-Attach the Output waveform
-``` 
+<img width="489" height="344" alt="image" src="https://github.com/user-attachments/assets/8c713d3e-6866-4257-94a6-176dfc0a1019" />
+
 # Results:
-```
-Write the conclusion
-```
+The Huffman and Shannon-Fano of the given statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using python are verified.
+
