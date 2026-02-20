@@ -48,7 +48,6 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}") 
 ```
 # Calculation:
-```
 ![WhatsApp Image 2026-02-20 at 3 41 03 PM](https://github.com/user-attachments/assets/9c302bfd-6220-4ea4-90cc-857064e27da3)
 ![WhatsApp Image 2026-02-20 at 3 41 29 PM](https://github.com/user-attachments/assets/2d0578e0-36b5-4ff6-9b3e-5690f13d4ffa)
 <img width="1080" height="1472" alt="image" src="https://github.com/user-attachments/assets/475a2c1c-dd93-4c6b-af39-e3818192b537" />
@@ -56,7 +55,7 @@ print(f"Variance is : {var}")
 
 
 
-```
+
 # Output
 ```
 Attach the Output waveform
